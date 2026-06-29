@@ -2,12 +2,14 @@
 
 # My 2025 CPU Simulator Project
 
-A simple Python program I wrote after my sophomore year to teach myself how computer chips read binary instructions and manage memory at a low level.
+A simple Python program I wrote during my sophomore year to teach myself how computer chips read binary instructions and manage memory at a low level.
 
 ## Why I Built This
-In 2025, after taking introductory coding classes, I realized I had no idea how a physical computer actually executes code. We always write high-level words, but chips only understand numbers. I wanted to see what the bridge looked like between software text and physical memory slots.
+In 2025, after taking my first classes of AP Computer Science Principles, I realized I had no idea how a physical computer actually executes code.
+So I put two and two togther the class was teaching JavaScript but I already knew Python. So I said let's do this.
 
-This script builds a virtual computer chip using basic Python variables and lists. It reads a custom text language I made up, turns those commands into code numbers, and loops through them just like a real processor.
+
+
 
 ## Project Features
 1. **Basic Compiler**: Takes simple text strings like `LOAD_A` and converts them into numeric codes that the simulation loop can handle.
